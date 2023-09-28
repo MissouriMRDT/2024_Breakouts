@@ -384,11 +384,11 @@
     (property "Datasheet" "" (at 13.97 74.93 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid d667c6bd-9e5b-4300-87b0-5c5cd7cc835b))
+    (pin "1" (uuid d667c6bd-9e5b-4300-87b0-5c5cd7cc835c))
     (pin "2" (uuid 565c091c-ec7e-43bc-8503-133f90e4dc57))
     (pin "3" (uuid 40aa08a9-65a4-4728-a4fc-6db7458daa1c))
     (pin "4" (uuid 55a543fd-4542-4169-b896-08bfc2e981ab))
-    (pin "1" (uuid d667c6bd-9e5b-4300-87b0-5c5cd7cc835b))
+    (pin "1" (uuid d667c6bd-9e5b-4300-87b0-5c5cd7cc835c))
     (instances
       (project "Current Sensing Breakout"
         (path "/7eefc7ab-eeb1-44c3-acb1-9fb0cfe7740d"
@@ -431,7 +431,7 @@
     (property "Reference" "C2" (at 44.45 29.821 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "0.1nF" (at 44.45 31.869 90)
+    (property "Value" "0.1uF" (at 44.45 31.869 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 48.26 34.5948 0)
@@ -466,11 +466,11 @@
     (property "Datasheet" "" (at 13.97 49.53 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 5c674915-9979-4e83-95ca-7401963428dd))
+    (pin "1" (uuid 5c674915-9979-4e83-95ca-7401963428de))
     (pin "2" (uuid 49dd069e-6e0a-4498-ba91-f1f2bf6c64c2))
     (pin "3" (uuid 538b8f3d-265a-4f64-8fc2-5a1fc82aa6cc))
     (pin "4" (uuid e26b6ed8-0b95-45f0-81b4-24480599e8e2))
-    (pin "1" (uuid 5c674915-9979-4e83-95ca-7401963428dd))
+    (pin "1" (uuid 5c674915-9979-4e83-95ca-7401963428de))
     (instances
       (project "Current Sensing Breakout"
         (path "/7eefc7ab-eeb1-44c3-acb1-9fb0cfe7740d"
@@ -577,11 +577,11 @@
     (property "Datasheet" "" (at 13.97 38.1 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid f04db16c-2997-4fe6-bafd-7331b8356f7c))
+    (pin "1" (uuid f04db16c-2997-4fe6-bafd-7331b8356f7d))
     (pin "2" (uuid f661d478-fafb-4f83-bc65-6f0b197d6fa5))
     (pin "3" (uuid d91429a9-e47c-42c9-98e3-7aa70980021a))
     (pin "4" (uuid a0f2a37f-3ba1-4d58-ac16-a6df5ac93235))
-    (pin "1" (uuid f04db16c-2997-4fe6-bafd-7331b8356f7c))
+    (pin "1" (uuid f04db16c-2997-4fe6-bafd-7331b8356f7d))
     (instances
       (project "Current Sensing Breakout"
         (path "/7eefc7ab-eeb1-44c3-acb1-9fb0cfe7740d"
@@ -631,11 +631,11 @@
     (property "Datasheet" "" (at 13.97 64.77 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid ed0b782e-74c9-4104-a472-2ca75923fd86))
+    (pin "1" (uuid ed0b782e-74c9-4104-a472-2ca75923fd87))
     (pin "2" (uuid c3c73e64-f4fe-454b-b75c-c160c4a98d8b))
     (pin "3" (uuid 794193a0-6706-4371-bcf9-d54b63a0357f))
     (pin "4" (uuid 92710108-6103-4749-9d25-9fe5523062c7))
-    (pin "1" (uuid ed0b782e-74c9-4104-a472-2ca75923fd86))
+    (pin "1" (uuid ed0b782e-74c9-4104-a472-2ca75923fd87))
     (instances
       (project "Current Sensing Breakout"
         (path "/7eefc7ab-eeb1-44c3-acb1-9fb0cfe7740d"
