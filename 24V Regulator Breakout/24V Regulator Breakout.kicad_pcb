@@ -82,9 +82,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "Gerbs/")
     )
   )
 
@@ -234,9 +234,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 060f34a5-9d92-4590-964a-5c5e613d0b74))
     (fp_line (start 1.6 0.8) (end -1.6 0.8)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp d8df2180-77d8-450c-9764-17681a506216))
-    (pad "1" smd roundrect (at -1.5625 0 270) (size 1.325 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.188679)
+    (pad "1" smd roundrect (at -1.5625 0 270) (size 1.325 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1886792453)
       (net 4 "GND") (pintype "passive") (tstamp 7586f6ef-0ce3-4c03-8300-34dfea7a22dd))
-    (pad "2" smd roundrect (at 1.5625 0 270) (size 1.325 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.188679)
+    (pad "2" smd roundrect (at 1.5625 0 270) (size 1.325 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1886792453)
       (net 2 "Net-(U1-VOUT+)") (pintype "passive") (tstamp f90be433-8a3b-4bd9-93db-034ac8d4820e))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
